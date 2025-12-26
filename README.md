@@ -40,7 +40,7 @@ gallery.html
     <div class="main-content">
         <div class="gallery-container">
             <img id="galleryImage" class="gallery-image" src="beach.png">
-            <div id="caption" class="caption">BIG TEMPLE </div>
+            <div id="caption" class="caption">PINK SUNSET BEACH </div>
             <div class="gallery-buttons">
                 <button onclick="prevImage()">Previous</button>
                 <button onclick="nextImage()">Next</button>
@@ -151,9 +151,9 @@ button {
 ```
 
 ## OUTPUT:
-![alt text](one.png)
-![alt text](two.png)
-![alt text](three.png)
+![alt text](bea.png)
+![alt text](koi.png)
+![alt text](oot.png)
 
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
